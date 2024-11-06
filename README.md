@@ -9,12 +9,13 @@
    
     /vendor/etc/dolby/dax-default.xml
 
-  If your device uses `Read-only` ROM, you must use the module version :
+  If your device uses `Read-only` ROM, you must use the module version : https://github.com/adivenxnataly/DaxConfig/releases/tag/v1.0-Release
+
+  You only need to replace the DaxConfig file manually, or you can do it directly in the following directory:
+`/data/adb/modules/DaxConfig/system/vendor/etc/dolby/dax-default.xml`
 
  *does not cause softbrick or bootloop.
  
-  but, installing the module `Mi-Sound-Redmi-K40-Magisk-Module` is at risk of softbrick or bootloop.
-
 ## Tested on (Stock ROM)
   - Android 12 - MIUI 13
   - Android 13 - MIUI 14
