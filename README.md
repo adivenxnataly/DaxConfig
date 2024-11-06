@@ -9,7 +9,7 @@
    
     /vendor/etc/dolby/dax-default.xml
 
-  If your device uses `Read-only` ROM, you must use the module version : https://github.com/adivenxnataly/DaxConfig/releases/tag/v1.0-Release
+  If your device uses `Read-only` ROM, you must use the module version : https://github.com/adivenxnataly/DaxConfig/releases/tag/DaxConfig
 
   - then, you only need to replace the DaxConfig file manually, or you can do it directly in the root directory:
 `/data/adb/modules/DaxConfig/system/vendor/etc/dolby/dax-default.xml`
